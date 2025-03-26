@@ -1,8 +1,8 @@
 ---
-title: Learning Process...
+title: Flight School
 ---
 <html> 
-  <title> Flight School </title>
+ 
 <head>
   
 </head>
